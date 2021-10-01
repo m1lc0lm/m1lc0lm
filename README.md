@@ -17,7 +17,7 @@
 
 
 ### Statistics
-<a href="https://github.com/m1lc0lm">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m1lc0lm&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m1lc0lm&layout=compact&theme=vue-dark&hide=html" />
+<a href="https://github.com/m1lcolm">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m1lcolm&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m1lcolm&layout=compact&theme=vue-dark&hide=html" />
 </a>
