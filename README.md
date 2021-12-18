@@ -4,8 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1lc0lm" alt="m1lc0lm" /></a> </p>
 
-- 🔭 I’m currently working on **RedisAPI for Spigot/BungeeCord**
-- 😄 I mainly code in Java but also in C#, C++ and script in Javascript
+- 🔭 I’m currently working on **RedisAPI for Spigot/BungeeCord**- 🔭 I’m currently working on [RedisAPI for Spigot/BungeeCord](https://github.com/m1lc0lm/RedisAPI)- 😄 I mainly code in Java but also in C#, C++ and script in Javascript
 - 🌱 I’m currently learning expert C#, C++ and C
 - 🖼️ I'm a retard so dont worry
 
