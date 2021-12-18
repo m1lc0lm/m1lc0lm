@@ -53,6 +53,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1lc0lm&show_icons=true&locale=en&layout=compact" alt="m1lc0lm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1lc0lm&show_icons=true&locale=en" alt="m1lc0lm" /></p>
