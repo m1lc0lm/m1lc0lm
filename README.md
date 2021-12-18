@@ -6,11 +6,13 @@
 
 - 🔭 I’m currently working on **RedisAPI for Spigot/BungeeCord**
 - 😄 I mainly code in Java but also in C#, C++ and script in Javascript
+- 🌱 I’m currently learning expert C#, C++ and C
 - 🖼️ I'm a retard so dont worry
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m1lc0lm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m1lc0lm" height="30" width="40" /></a>
+<a href="https://github.com/m1lc0lm" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="m1lc0lm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
