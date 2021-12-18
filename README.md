@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
-<h3 align="center">😄 I mainly code in Java but also in C#, C++ and script in Javascript</h3>
-<h3 align="center">🖼️ I'm a retard so dont worry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1lc0lm&label=Profile%20views&color=0e75b6&style=flat" alt="m1lc0lm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1lc0lm" alt="m1lc0lm" /></a> </p>
 
 - 🔭 I’m currently working on **RedisAPI for Spigot/BungeeCord**
+- 😄 I mainly code in Java but also in C#, C++ and script in Javascript
+- 🖼️ I'm a retard so dont worry
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
