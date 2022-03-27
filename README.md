@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
 
 
-- 🔭 I’m currently working on [RedisAPI for Spigot/BungeeCord](https://github.com/m1lc0lm/RedisAPI)
+- 🔭 I’m currently working on nothing 😂
 - 😄 I mainly code in Java but also in C#, C++ and script in Javascript
 - 🌱 I’m currently learning expert C#, C++ and C
-- 🖼️ I'm a retard so dont worry
+- 🖼️ I'm a retard so dont worry, you can trust me 🙃 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
