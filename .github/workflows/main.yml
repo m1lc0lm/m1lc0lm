@@ -10,5 +10,6 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           project-location: vImpact
-          project-name: IMPACT Roadmap
+          project-number: 2
           column-name: Autofill
+          run: echo ${{ secrets.PAT }}
