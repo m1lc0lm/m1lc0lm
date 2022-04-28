@@ -20,7 +20,6 @@ jobs:
         uses: leonsteinhaeuser/project-beta-automations@v1.2.1
         with:
           gh_token: ${{ secrets.PAT }}
-          user: m1lc0lm
           organization: vImpact
           project_id: 2
           resource_node_id: ${{ github.event.issue.node_id }}
